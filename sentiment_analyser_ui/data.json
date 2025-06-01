@@ -1,0 +1,37 @@
+[
+    {
+        "movie": "The Life of Pi",
+        "review": "the acting was great and story telling was also awesome",
+        "sentiment": "Positive"
+    },
+    {
+        "movie": "Inception",
+        "review": "Gone over the head , felt not good ang not so enjoyable for action lovers like me, felt like need better screen play",
+        "sentiment": "Negative"
+    },
+    {
+        "movie": "The Godfather",
+        "review": "The acting was not matured enough, why did the actor started crying? expected better screen play",
+        "sentiment": "Negative"
+    },
+    {
+        "movie": "Inception",
+        "review": "LOved this ovie, its a master piece",
+        "sentiment": "Positive"
+    },
+    {
+        "movie": "The Life of Pi",
+        "review": "Just insane !! the Tiger hold me on the seats , couldnot move my eyes!! absolute master piece",
+        "sentiment": "Positive"
+    },
+    {
+        "movie": "The Life of Pi",
+        "review": "Did not like this movie, wastage of money",
+        "sentiment": "Negative"
+    },
+    {
+        "movie": "The Godfather",
+        "review": "The movie was not so interesting for me, expected better direction, cinematography",
+        "sentiment": "Negative"
+    }
+]
